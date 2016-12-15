@@ -1,0 +1,22 @@
+.root-el {
+  height: 100%;
+  .text-center {
+    text-align: center;
+  }
+  background-color: #f8f8f8;
+}
+html, body, .root-el {
+  height: 100%;
+}
+
+//------------colors---------------
+.bg_blue {
+  background-color: blue;
+}
+
+//------------cells----------------
+.cell-header-img {
+  width: 2rem;
+  height: 2rem;
+  margin-right: 0.5rem;
+}
